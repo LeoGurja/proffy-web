@@ -1,8 +1,8 @@
 import React from 'react'
-import Landing from './pages/landing'
+import Routes from './routes'
 
 export default function App() {
   return (
-    <Landing />
+    <Routes />
   )
 }
