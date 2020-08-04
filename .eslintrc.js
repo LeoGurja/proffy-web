@@ -21,6 +21,7 @@ module.exports = {
   ],
   rules: {
     indent: ['error', 2],
-    'space-before-function-paren': ['error', 'never']
+    'space-before-function-paren': ['error', 'never'],
+    'no-unused-vars': 'off'
   }
 }
